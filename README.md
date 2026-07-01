@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Carissa!
 
-<!--
-**cbjager/cbjager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cybersecurity student at Brigham Young University–Idaho with a background in Food Safety & Quality Assurance.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- SQL
+- Python
+- Git & GitHub
+
+## 🎯 Goals
+
+I'm working toward a career in cybersecurity while building projects that document my learning along the way.
+
+## 📚 Current Projects
+
+- WDD 130 Team Websites
+- SQL Database Assignments
+- Python Coursework
+
+## 🎮 Outside of Coding
+
+When I'm not studying, I enjoy:
+- Piano
+- Video games
+- Running
+- Traveling
+- Spending time with my two border collies
