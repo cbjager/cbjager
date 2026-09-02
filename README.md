@@ -22,6 +22,11 @@ Built and deployed individual and team-based websites using HTML and CSS as part
 
 **Technologies:** HTML · CSS · Git · GitHub · GitHub Pages
 
+**Selected Projects:**
+- [The Samurai Blue Hub](https://cbjager.github.io/wdd130-karino/) — Collaborative multi-page website
+- [Battlefront Fan Hub](https://karinoc.github.io/wdd-130-wyatt-baysinger/) — Collaborative fan and community website
+- [Carissa's WDD-130 Web Portfolio](https://cbjager.github.io/WDD-Webpage-Project/) — Individual HTML/CSS website 
+
 ### 🗄️ Relational Databases & SQL – ITM 111
 
 Completed database coursework using SQL and MySQL Workbench, including relational database design, entity-relationship diagrams, data manipulation, and queries across related tables.
